@@ -4,7 +4,7 @@ Scripts are written in MATLAB, with details as follows:
 
 - **_DW-SSFP/SE/STE_ParameterOptimisation.m_**: Scripts to identify DW-SSFP, DW-SE, and DW-STE sequence parameters that maximise SNR efficiency.
 
-- **_ParameterOptions.m_**: Scripts to define your scanner & sample properties for parameter optimisation
+- **_ParameterOptions.m_**: Script to define your scanner & sample properties for parameter optimisation
 
 - **_Figures_**: Directory containing scripts to recreate some of the Figures in the manuscript.
 
