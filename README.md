@@ -1,4 +1,4 @@
-This repository contains software associated with the manuscript _Tendler et al., Diffusion-weighted steady-state free precession imaging in the ex vivo macaque brain on a 10.5T human MRI scanner_. 
+This repository contains software associated with the manuscript _Tendler et al., Diffusion-weighted steady-state free precession imaging in the ex vivo macaque brain on a 10.5T human MRI scanner_, BioRxiv 2025. https://doi.org/10.64898/2025.12.12.694017. 
 
 Scripts are written in MATLAB, with details as follows:
 
