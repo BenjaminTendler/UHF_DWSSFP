@@ -25,3 +25,7 @@ Scripts are written in MATLAB, with details as follows:
 2. (DW-SSFP Script) Optimised sequence parameters corrected for the 2*pi*n dephasing condition of DW-SSFP (dependent on the target resolution provided in the 'ParameterOptions.m' script)
 
 3. (DW-SSFP Script) Table of gradient amplitudes associated with 2*pi, 4*pi...2*n*pi dephasing and corresponding q-/b-values. Useful for establishing multi-shell protocols or defining b0-equivalent acquisitions
+
+# Copyright
+
+Copyright, 2024, University of Oxford. All rights reserved
